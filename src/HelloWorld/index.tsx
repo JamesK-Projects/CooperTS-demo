@@ -6,6 +6,7 @@ class HelloWorld extends React.Component {
     return (
       <>
         <T kind="Hello World" />
+        <br />
         <T
           kind="It's <date/>"
           //L (Localization) tags are a tool built into our CooperTS translation solution. They’re a way to allow translations across different date/time formats.
