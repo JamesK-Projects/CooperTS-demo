@@ -25,3 +25,8 @@ Finally, start your React server:
 ```
 yarn start
 ```
+<<<<<<< HEAD
+=======
+
+To change the language, edit the loader within the index.tsx file in the root directory.
+>>>>>>> 83ff9042531a496aa36f29815c96ef58a8de840f
