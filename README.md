@@ -27,7 +27,11 @@ yarn start
 ```
 
 To switch the language, change the two-letter language code within the index.tsx file in the root directory.
+
 "en" = English
+
 "es" = Spanish
+
 "fr" = French
+
 "ja" = Japanese
